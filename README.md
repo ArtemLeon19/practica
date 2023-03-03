@@ -26,8 +26,9 @@
 <img src = "https://user-images.githubusercontent.com/124984131/222655193-0e9ba17c-c81f-4fd2-b3c2-7e7eb13b0204.png"> 
 <a>Метод Выбора по городу</a><br />
 <img src = "https://user-images.githubusercontent.com/124984131/222655376-f55c71cd-502e-4928-9b3e-4aeee5c7e863.png"> 
-
-
+<br />
+<a>Практическая 3</a><br />
+<img src = "https://user-images.githubusercontent.com/124984131/222656009-22a9e567-a6ee-47e3-8feb-465e108588ca.png"> 
 
 
 
