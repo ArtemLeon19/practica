@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi there, I'm Artem</h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <a href="Lab1/Lab1/Controllers/WeatherForecastController.cs" target="_blank">Практическая 1</a><br />
@@ -29,6 +30,6 @@
 <br />
 <a>Практическая 3</a><br />
 <img src = "https://user-images.githubusercontent.com/124984131/222656009-22a9e567-a6ee-47e3-8feb-465e108588ca.png"> 
-
+<div>
 
 
