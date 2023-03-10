@@ -30,6 +30,12 @@
 <br />
 <a>Практическая 3</a><br />
 <img src = "https://user-images.githubusercontent.com/124984131/222656009-22a9e567-a6ee-47e3-8feb-465e108588ca.png"> 
-<div>
+</div>
+Практическая 4 и 5
+(https://user-images.githubusercontent.com/124984131/224405062-d18e823d-f1f1-432d-a4ec-d0c176c1af2e.png)
+![изображение](https://user-images.githubusercontent.com/124984131/224405702-eccd4cc7-96dc-4d49-810d-8ed167a64d5e.png)
+![изображение](https://user-images.githubusercontent.com/124984131/224406082-aba02f8c-31b8-4411-bb0b-1c96f04a3f24.png)
+![изображение](https://user-images.githubusercontent.com/124984131/224406006-600454b1-a79c-4ae0-9a1f-34ea35c35884.png)
+![изображение](https://user-images.githubusercontent.com/124984131/224405930-dee079a2-c408-4d64-87e4-b6d2a726c017.png)
 
 
