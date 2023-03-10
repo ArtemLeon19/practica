@@ -31,7 +31,9 @@
 <a>Практическая 3</a><br />
 <img src = "https://user-images.githubusercontent.com/124984131/222656009-22a9e567-a6ee-47e3-8feb-465e108588ca.png"> 
 <div>
-[Практическая 4 и 5](https://github.com/ArtemLeon19/practica/blob/main/lab4-5.zip)
+<div>
+<a href="" target="_blank">Практическая 4-5</a><br />
+<div>  
   Метод вывода
 
   ![изображение](https://user-images.githubusercontent.com/124984131/224405062-d18e823d-f1f1-432d-a4ec-d0c176c1af2e.png)
