@@ -32,7 +32,7 @@
 <img src = "https://user-images.githubusercontent.com/124984131/222656009-22a9e567-a6ee-47e3-8feb-465e108588ca.png"> 
 <div>
 <div>
-<a href="" target="_blank">Практическая 4-5</a><br />
+<a href="lab4-5.zip" target="_blank">Практическая 4-5</a><br />
 <div>  
   Метод вывода
 
