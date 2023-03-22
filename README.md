@@ -51,10 +51,13 @@
   ![изображение](https://user-images.githubusercontent.com/124984131/224405930-dee079a2-c408-4d64-87e4-b6d2a726c017.png)
   
 <div>
-<a href="lab4-5.zip" target="_blank">Практическая 4-5</a><br />
+<a href="lab4-5.zip" target="_blank">Практическая 6</a><br />
 <div>  
 
 ![изображение](https://user-images.githubusercontent.com/124984131/226985693-ce6f4b7e-f112-4d0e-b51c-eac7a545e932.png)
+  
+![изображение](https://user-images.githubusercontent.com/124984131/226986181-1bf1ab07-2d21-4740-8543-af344c32a70f.png)
+
 
 
 
