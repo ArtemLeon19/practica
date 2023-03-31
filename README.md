@@ -29,7 +29,9 @@
 <img src = "https://user-images.githubusercontent.com/124984131/222655376-f55c71cd-502e-4928-9b3e-4aeee5c7e863.png"> 
 <div>
 Практическая 3
+  
 ![изображение](https://user-images.githubusercontent.com/124984131/229046170-08424258-1418-4912-9189-4ad985cda207.png)
+  
 <div>
 <br />
 <a>Практическая 4</a><br />
