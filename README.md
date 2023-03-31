@@ -27,12 +27,16 @@
 <img src = "https://user-images.githubusercontent.com/124984131/222655193-0e9ba17c-c81f-4fd2-b3c2-7e7eb13b0204.png"> 
 <a>Метод Выбора по городу</a><br />
 <img src = "https://user-images.githubusercontent.com/124984131/222655376-f55c71cd-502e-4928-9b3e-4aeee5c7e863.png"> 
+<div>
+Практическая 3
+![изображение](https://user-images.githubusercontent.com/124984131/229046170-08424258-1418-4912-9189-4ad985cda207.png)
+<div>
 <br />
-<a>Практическая 3</a><br />
+<a>Практическая 4</a><br />
 <img src = "https://user-images.githubusercontent.com/124984131/222656009-22a9e567-a6ee-47e3-8feb-465e108588ca.png"> 
 <div>
 <div>
-<a href="lab4-5.zip" target="_blank">Практическая 4-5</a><br />
+<a href="lab4-5.zip" target="_blank">Практическая 5</a><br />
 <div>  
   Метод вывода
 
