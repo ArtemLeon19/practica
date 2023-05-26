@@ -63,15 +63,12 @@
 ![изображение](https://user-images.githubusercontent.com/124984131/226985693-ce6f4b7e-f112-4d0e-b51c-eac7a545e932.png)
   
 ![изображение](https://user-images.githubusercontent.com/124984131/226986181-1bf1ab07-2d21-4740-8543-af344c32a70f.png)
-  
-<br />
-<a>Практическая 4</a><br />
-![изображение](https://github.com/ArtemLeon19/practica/assets/124984131/0e78bbc1-8dd6-4c14-858b-379d1be1331f)
 
 Практическая 7
   
   ![изображение](https://github.com/ArtemLeon19/practica/assets/124984131/6df060fa-3051-4ee8-afa0-2b14ba0f743d)
 
-
-
+<div>
+<a href="lab8" target="_blank">Практическая 8</a><br />
+<div> 
 
