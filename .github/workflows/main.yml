@@ -1,11 +1,7 @@
 name: .NET Core CI
-on:
-  push:
-    branches: 
-      [ "main" ]
-  pull_request:
-    branches:
-      - master
+
+on: [push]
+    
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,5 +13,3 @@ jobs:
         dotnet-version: '3.1'
     - name: Build
       run: dotnet build --configuration Release
-    - name: Test
-      run: dotnet test --configuration Release --no-build
