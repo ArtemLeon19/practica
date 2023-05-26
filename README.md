@@ -68,6 +68,9 @@
 <a>Практическая 4</a><br />
 ![изображение](https://github.com/ArtemLeon19/practica/assets/124984131/0e78bbc1-8dd6-4c14-858b-379d1be1331f)
 
+Практическая 7
+  
+  ![изображение](https://github.com/ArtemLeon19/practica/assets/124984131/6df060fa-3051-4ee8-afa0-2b14ba0f743d)
 
 
 
