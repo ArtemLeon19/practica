@@ -72,3 +72,9 @@
 <a href="lab8" target="_blank">Практическая 8</a><br />
 <div> 
 
+<div>
+<a href="lab8" target="_blank">Практическая 9</a><br />
+<div> 
+
+![изображение](https://github.com/ArtemLeon19/practica/assets/124984131/fd9f19a1-ed96-4a38-9986-83d83c0a76c7)
+
